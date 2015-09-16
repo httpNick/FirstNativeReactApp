@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-e9c2acfe08f705748ca62ab27b75b2728fd35cff.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.5.0/bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a/okio-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/okio-1.5.0-b4908cbc235dccf25445fbad48e265c5e8f3ba1d.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-ed0eaf11e72c42d77eb97944d9a75689e233de56.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-aaf8b06116f763191563d14a5344e6c3db390848.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d5fddbfc516e39dd74d776e5cca8b761721990b">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-a1569a18a68cde202a7526843eae2bc87b7bf8d7.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-38f8bc6c4f6920de639422e0852a6a30942b5d1b.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-93bb4f52b12bbf830c9399c2c53d0262ca5aa0a7.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-21584d9209f4a395ab1ae6d803070a36cba79dd1.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-4f343f0345feb8db756d1d4ab841cc8ebc96c76c.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-668fccc9ed2e4fffc6fe3cc154f2a5195c173517.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="99c854e791067a69667c57c7ef1b596810c94ab2">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-3e4ee6facd95e80e138a34ca31917d0ed729b2f8.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-5d03c85f402fea075cca0d3e6b835e7eeb25aea4.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-3f1e6662966e9471785c4ea5ecf9e1abcbc94359.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-e3faf19a41992c8429a89d2a44b7466f05a65051.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-92895a64c168ed99263359e72deec7b5117a1ed2.jar" />
+    </item>
+    <item
+        jar="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/classes-48a26717ffaeeab912038a8afafa80a1b2ca2d6e.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-e3e1dfcdf1091ad62101747e52cf18170b899a78.jar" />
+    </item>
+    <item
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/Users/httpnick/ReactStarterProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-30a23d909eda6aea8a61ea6983b689158f694ef1.jar" />
+    </item>
+
+</items>
